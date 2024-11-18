@@ -1,0 +1,23 @@
+Write a code to get the input in the given format and print the output in the given format
+
+
+Input Description:
+Three integers are given in line by line.
+
+Output Description:
+Print the integers in a single line separate by space.
+
+Sample Input :
+2
+4
+5
+Sample Output :
+2 4 5
+
+Source Code:
+# Read the three integers from input
+frst_int = input()
+second_int = input()
+third_int = input()
+# Print all three integers in a single line separated by space
+print(frst_int, second_int, third_int)
